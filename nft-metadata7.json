@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Roles",
+        "value": "Creator"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Favorite",
+        "value": "Architecture 101"
+      }
+    ],
+    "description": "We are to transform film industry into Web3 Film Ecosystem",
+    "image": "https://gateway.pinata.cloud/ipfs/QmS8XHTFLpRgBP7Fx6A8b5vhSjpG9mzA17TGTTrgBB6MDr",
+    "name": "Melomance Membership"
+  }
+  

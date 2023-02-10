@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Roles",
+        "value": "Developer"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Favorite",
+        "value": "50 First Dates"
+      }
+    ],
+    "description": "We are to transform film industry into Web3 Film Ecosystem",
+    "image": "https://gateway.pinata.cloud/ipfs/QmWsDMjnG777vx949C31Q1FqAtxGUR8DWMHeSbVDfn3n2A",
+    "name": "Melomance Membership"
+  }
+  

@@ -1,0 +1,20 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Roles",
+        "value": "Filmmaker"
+      },
+      {
+        "trait_type": "Sex",
+        "value": "Male"
+      },
+      {
+        "trait_type": "Favorite",
+        "value": "A Beautiful Minds"
+      }
+    ],
+    "description": "We are to transform film industry into Web3 Film Ecosystem",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaQ55CyuxNZ5EtW22EVE2o9nacuqnG1jV9uWVdGkXKvHL",
+    "name": "Melomance Membership"
+  }
+  
